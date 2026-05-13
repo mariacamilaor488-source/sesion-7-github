@@ -23,8 +23,13 @@ def dividir(a, b):
     return a / b
 
 
+def potencia(base, exponente):
+    return base**exponente
+
+
 if __name__ == "__main__":
     print(f"Suma: {sumar(10, 5)}")
     print(f"Resta: {restar(10, 5)}")
     print(f"Multiplicación: {multiplicar(10, 5)}")
     print(f"División: {dividir(10, 5)}")
+    print(f"Potencia: {potencia(10, 2)}")
