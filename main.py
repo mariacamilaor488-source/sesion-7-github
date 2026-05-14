@@ -1,4 +1,5 @@
-# Calculadora básica — práctica sesión 7
+# Autor: Maria Camila
+# # Calculadora básica — práctica sesión 7
 
 
 def sumar(a, b):
